@@ -1,0 +1,5 @@
+No	Name	Phy	Chem	Bio	Math
+1	Khaliq	86	87	88	89
+2	Ozil	89	90	91	92
+3	Abbad	78	79	80	81
+4	Malik	82	83	84	85
